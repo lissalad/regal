@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Strapless Red",
+    "price": 128,
+    "img": "strapless-red.jpeg",
+    "link": "https://www.luulla.com/product/1705640/red-prom-dress-strapless-party-dress-custom-made",
+    "tags": ["strapless"],
+    "colors": [],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "Blue Cream Evening",
+    "price": 138,
+    "img": "blue-cream-evening.jpeg",
+    "link": "https://littlecute.storenvy.com/collections/1314579-prom-dress-dresses/products/35764621-cute-tulle-long-a-line-prom-dress-blue-evening-dress",
+    "tags": [],
+    "colors": [],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "Long Pastel Green Tulle",
+    "price": 126.99,
+    "img": "pastel-green.jpeg",
+    "link": "https://www.columbusdresses.com/collections/bridesmaid-dresses/products/simple-green-tulle-long-prom-dress-green-tulle-bridesmaid-dress-cd22726?variant=40863512199342",
+    "tags": [],
+    "colors": ["green"],
+    "occasion": [],
+    "material": ["tulle"]
+  },
+  {
+    "title": "Blue Silk",
+    "price": 1100,
+    "img": "blue-silk.png",
+    "link": "https://houseofaama.com/collections/dresses/products/copy-of-debutante-dress-blue",
+    "tags": ["vintage", "debutante"],
+    "colors": ["blue"],
+    "occasion": [],
+    "material": ["silk"]
+  },
+  {
+    "title": "Yellow Southern Victorian",
+    "price": 700,
+    "img": "yellow-victorian.png",
+    "link": "https://houseofaama.com/products/southern-girl-victorian-dress?variant=5122432729120",
+    "tags": [],
+    "colors": [],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "Royal Green Sequins",
+    "price": 165.99,
+    "img": "green-sequin.png",
+    "link": "https://www.hocogirl.com/bateau-green-sequin-lace-evening-dress-with-long-sleeves.html",
+    "tags": [],
+    "colors": ["green"],
+    "occasion": [],
+    "material": []
+  }
+]
