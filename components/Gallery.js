@@ -9,7 +9,7 @@ function Gallery({ color }) {
   .map(({ title, price, img, link }, i) => {
     return (
       <div className="">
-        <Picture title={title} width="w-[300px]" id={i}/> 
+        <Picture title={title} classes="w-[300px]" id={i}/> 
       </div>
     );
   });

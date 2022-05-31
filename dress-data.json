@@ -20,7 +20,7 @@
     "material": []
   },
   {
-    "title": "Long Pastel Green Tulle",
+    "title": "Pastel Green",
     "price": 126.99,
     "img": "pastel-green.jpeg",
     "link": "https://www.columbusdresses.com/collections/bridesmaid-dresses/products/simple-green-tulle-long-prom-dress-green-tulle-bridesmaid-dress-cd22726?variant=40863512199342",
@@ -56,6 +56,136 @@
     "link": "https://www.hocogirl.com/bateau-green-sequin-lace-evening-dress-with-long-sleeves.html",
     "tags": [],
     "colors": ["green"],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "Burgundy Evening",
+    "price": 128,
+    "img": "burgundy-evening.png",
+    "link": "https://www.luulla.com/product/1709042/off-shoulder-evening-dress-burgundy-evening-dress-simple-prom-dress-custom-made",
+    "tags": [],
+    "colors": ["red"],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "Pumpkin Maxi",
+    "price": 90.59,
+    "img": "pumpkin-maxi.png",
+    "link": "https://www.etsy.com/listing/1098361943/winona-vintage-orange-nightgown-hand?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=orange+gown+vintage&ref=sr_gallery-1-42&cns=1&organic_search_click=1",
+    "tags": [],
+    "colors": ["orange"],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "Blue Cinderella",
+    "price": 188,
+    "img": "blue-cinderella.png",
+    "link": "https://www.dressesforparty.com/off-the-shoulder-blue-cinderella-ball-gown-p3584215.html?variant=7584e4cf-90c5-41bc-a29f-349b592b93ad",
+    "tags": [],
+    "colors": ["blue"],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "Yellow Banquet",
+    "price": 145.99,
+    "img": "yellow-banquet.png",
+    "link": "https://www.maxibridal.org/products/yellow-banquet-evening-dress-new-style-condole-belt-long-temperament-lady-dress-mb2027381?variant=39324609019998",
+    "tags": [],
+    "colors": ["yellow"],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "Little Red Lace",
+    "price": 359,
+    "img": "little-red-lace.png",
+    "link": "https://www.babyonlinedress.de/de/g/luxus-abendkleider-mit-armel-rote-abendkleid-lang-gunstig-112704.html",
+    "tags": [],
+    "colors": ["red"],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "Extravagant Lavender",
+    "price": 399,
+    "img": "extravagant-lavender.png",
+    "link": "https://www.babyonlinedress.de/en/g/extravagant-evening-dresses-long-prom-dresses-glitter-online-114131.html",
+    "tags": [],
+    "colors": ["purple"],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "",
+    "price": 0,
+    "img": "",
+    "link": "",
+    "tags": [],
+    "colors": [],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "",
+    "price": 0,
+    "img": "",
+    "link": "",
+    "tags": [],
+    "colors": [],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "",
+    "price": 0,
+    "img": "",
+    "link": "",
+    "tags": [],
+    "colors": [],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "",
+    "price": 0,
+    "img": "",
+    "link": "",
+    "tags": [],
+    "colors": [],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "",
+    "price": 0,
+    "img": "",
+    "link": "",
+    "tags": [],
+    "colors": [],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "",
+    "price": 0,
+    "img": "",
+    "link": "",
+    "tags": [],
+    "colors": [],
+    "occasion": [],
+    "material": []
+  },
+  {
+    "title": "",
+    "price": 0,
+    "img": "",
+    "link": "",
+    "tags": [],
+    "colors": [],
     "occasion": [],
     "material": []
   }
