@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-main {
+/* main {
   @apply flex flex-row flex-wrap px-3 w-full justify-center;
-}
+} */
