@@ -1,11 +1,11 @@
 import Image from "next/image";
 import data from "/Users/lissa/dev/regal/dress-data.json";
 
-function Picture({ title, classes }) {
+function DressImage({ title, classes }) {
 
   // get dress with given title (first in list, hopefully only)
   let dress = data.filter(dress => dress.title === title)[0];
-  console.log(dress);
+  // console.log(dress);
 
   return (
     <div className={classes}>
@@ -13,4 +13,5 @@ function Picture({ title, classes }) {
     </div>
   );
 }
-export default Picture;
+
+export default DressImage;

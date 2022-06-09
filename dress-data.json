@@ -5,7 +5,7 @@
     "img": "strapless-red.jpeg",
     "link": "https://www.luulla.com/product/1705640/red-prom-dress-strapless-party-dress-custom-made",
     "tags": ["strapless"],
-    "colors": [],
+    "colors": ["red"],
     "occasion": [],
     "material": []
   },
@@ -15,7 +15,7 @@
     "img": "blue-cream-evening.jpeg",
     "link": "https://littlecute.storenvy.com/collections/1314579-prom-dress-dresses/products/35764621-cute-tulle-long-a-line-prom-dress-blue-evening-dress",
     "tags": [],
-    "colors": [],
+    "colors": ["blue"],
     "occasion": [],
     "material": []
   },
@@ -45,7 +45,7 @@
     "img": "yellow-victorian.png",
     "link": "https://houseofaama.com/products/southern-girl-victorian-dress?variant=5122432729120",
     "tags": [],
-    "colors": [],
+    "colors": ["yellow"],
     "occasion": [],
     "material": []
   },
