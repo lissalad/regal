@@ -14,10 +14,10 @@ export default function Home() {
       </Head>
 
       <main
-        // className={classNames(
-        //   "flex flex-col py-2 text-rose-700 bg-purple-200/40 items-center",
-        //   "md:px-4"
-        // )}
+        className={classNames(
+          "flex flex-col py-2 text-rose-700 bg-purple-200/40 items-center justify-center",
+          "md:px-4"
+        )}
       >
         <DressList />
       </main>

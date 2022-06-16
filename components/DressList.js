@@ -1,5 +1,4 @@
 import classNames from "classnames";
-import styles from "../styles/Home.module.css";
 import DressIcon from "./DressIcon";
 import Image from "next/image";
 
@@ -11,7 +10,7 @@ function DressList({}) {
   });
 
   return (
-    <div className={classNames("flex flex-row flex-wrap")}>
+    <div className={classNames("flex flex-row flex-wrap justify-center")}>
       {dresses}
     </div>
   );
