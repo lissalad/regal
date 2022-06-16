@@ -2,7 +2,7 @@ import classNames from "classnames";
 import Image from "next/image";
 import data from "/Users/lissa/dev/regal/dress-data.json";
 
-function DressIcon({ title }) {
+function Item({ title }) {
   // get dress with given title (first in list, hopefully only)
   let dress = data.filter((dress) => dress.title === title)[0];
   // console.log(dress.img);
@@ -31,4 +31,4 @@ function DressIcon({ title }) {
     </div>
   );
 }
-export default DressIcon;
+export default Item;

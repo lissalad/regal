@@ -1,6 +1,6 @@
 import classNames from "classnames";
 import Head from "next/head";
-import List from "../components/List";
+import Dress from "../components/Dress";
 
 export default function Home() {
   return (
@@ -15,11 +15,12 @@ export default function Home() {
 
       <main
         className={classNames(
-          "flex flex-col py-2 bg-purple-200/40 items-center justify-center",
-          "md:px-4"
+          "flex flex-col py-2 bg-purple-200/40 items-center",
+          "md:px-4 md:items-start"
         )}
       >
-        <List />
+        <Dress image="blue.jpeg"/>
+
       </main>
     </>
   );

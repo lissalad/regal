@@ -1,12 +1,10 @@
 import classNames from "classnames";
-import DressIcon from "./DressIcon";
-import Image from "next/image";
-
+import Item from "./Item";
 import data from "/Users/lissa/dev/regal/dress-data.json";
 
-function DressList({}) {
+function List({}) {
   const dresses = data.map(({ title, price, img, link }, i) => {
-    return <DressIcon title={title} key={i} />;
+    return <Item title={title} key={i} />;
   });
 
   return (
@@ -16,4 +14,4 @@ function DressList({}) {
   );
 }
 
-export default DressList;
+export default List;
