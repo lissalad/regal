@@ -18,13 +18,13 @@ function Dress({ image }) {
       </div>
 
       {/* info */}
-      <div className={classNames("flex flex-col mx-12 items-center")}>
+      <div className={classNames("flex flex-col mx-12 items-center londinia")}>
         <div
           className={classNames(
             "flex flex-col justify-between mx-2 mt-4 items-center space-y-1"
           )}
         >
-          <p className={classNames("text-2xl")}>Pretty Blue Princess</p>
+          <p className={classNames("text-4xl costa")}>Pretty Blue Princess</p>
           <p className={classNames("text-sm")}>$1899</p>
 
           {/* size */}
@@ -55,7 +55,7 @@ function Dress({ image }) {
         {/* button */}
         <button
           className={classNames(
-            "bg-pink-900/80 text-white fixed left-0 bottom-0 w-full py-7",
+            "bg-pink-900/80 text-white fixed left-0 bottom-0 w-full py-4 text-xl",
             "md:relative md:px-12 md:py-2 md:w-fit md:h-fit md:rounded-sm md:border-[3px]"
           )}
         >

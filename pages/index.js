@@ -15,7 +15,7 @@ export default function Home() {
 
       <main
         className={classNames(
-          "flex flex-col py-2 bg-purple-200/40 items-center justify-center",
+          "flex flex-col py-2  items-center justify-center",
           "md:px-4"
         )}
       >

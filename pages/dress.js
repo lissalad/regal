@@ -15,8 +15,8 @@ export default function Home() {
 
       <main
         className={classNames(
-          "flex flex-col py-2 bg-purple-200/40 items-center",
-          "md:px-4 md:items-start"
+          "flex flex-col py-2  bg-purple-200/40 items-center",
+          "md:px-4 md:items-start md:p-9 md:px-12"
         )}
       >
         <Dress image="blue.jpeg"/>

@@ -21,7 +21,7 @@ function Item({ title }) {
       </div>
       <div
         className={classNames(
-          "w-full absolute bg-black/20 backdrop-blur py-2 bottom-0 text-center transition-all duration-300 text-white/90",
+          "w-full absolute bg-black/20 backdrop-blur py-2 bottom-0 text-center transition-all duration-300 text-white/90 londinia",
           "md:opacity-0 md:group-hover:opacity-100 md:py-3"
         )}
       >

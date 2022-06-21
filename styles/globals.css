@@ -5,3 +5,53 @@
 /* main {
   @apply flex flex-row flex-wrap px-3 w-full justify-center;
 } */
+
+body {
+  /* background-image: url("/images/lace.jpg"); */
+  /* background-size: cover; */
+}
+
+.elegant {
+  font-family: elegant;
+}
+
+.fancy {
+  font-family: fancy;
+}
+
+.londinia {
+  font-family: londinia;
+}
+
+.costa {
+  font-family: costa;
+}
+
+.sensational {
+  font-family: sensational;
+}
+
+@font-face {
+  font-family: elegant;
+  src: url(/fonts/elegant.woff);
+}
+
+@font-face {
+  font-family: fancy;
+  src: url(/fonts/fancy.woff);
+}
+
+@font-face {
+  font-family: londinia;
+  src: url(/fonts/londinia.woff);
+}
+
+@font-face {
+  font-family: costa;
+  src: url(/fonts/costa.woff);
+}
+
+@font-face {
+  font-family: sensational;
+  src: url(/fonts/sensational.woff);
+}
