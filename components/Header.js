@@ -1,6 +1,7 @@
 import classNames from "classnames";
 import Link from "next/link";
 import Image from "next/image";
+import DressIcon from "./svg/DressIcon";
 
 function Header() {
   const navItem = "text-sm px-[2vw] whitespace-nowrap";
@@ -8,19 +9,20 @@ function Header() {
   return (
     <div
       className={classNames(
-        "bg-rose-900 flex flex-col w-full justify-between p-4 text-slate-50 items-center"
+        "bg-rose-900 flex flex-col w-full justify-between p-4 text-slate-50"
       )}
     >
       <Link passHref href="/">
-        <div className={classNames("flex flex-row items-end")}>
-          <p className="costa p-1 text-4xl w-fit">regal</p>
+        <div className={classNames("flex flex-col items-center justify-left w-fit -mt-1")}>
+          {/* <DressIcon /> */}
           <Image
-            src={"/images/icon.png"}
+            src={"/icons/icon.png"}
             alt="icon"
-            width="70"
-            height="70"
+            width="50"
+            height="50"
             objectFit="contain"
           />
+          <p className="costa text-[40px] w-fit mx-4 -mt-5">regal</p>
         </div>
       </Link>
 
